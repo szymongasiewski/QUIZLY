@@ -1,0 +1,33 @@
+
+d
+java:S1192 "HDefine a constant instead of duplicating this literal "boolean" 3 times.(ùï›¤ùÿÿÿÿ
+^
+java:S1192™"GDefine a constant instead of duplicating this literal "UTF-8" 17 times.(Øõ·ã
+b
+java:S1192Ì"FDefine a constant instead of duplicating this literal "false" 4 times.(¼ÎÜıÿÿÿÿ
+k	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èƒ›Üşÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èƒ›Üşÿÿÿÿ
+=
+java:S1604("(Make this anonymous inner class a lambda(‰ªˆF
+T
+java:S1874F"9Remove this use of "PreferenceManager"; it is deprecated.(ğíÕ€úÿÿÿÿ
+^
+java:S1874F"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(ğíÕ€úÿÿÿÿ
+T
+java:S1874L"9Remove this use of "PreferenceManager"; it is deprecated.(ğíÕ€úÿÿÿÿ
+^
+java:S1874L"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(ğíÕ€úÿÿÿÿ
+T
+java:S2130_"9Use "Integer.parseInt" for this string-to-int conversion.(Èƒ›Üşÿÿÿÿ
+7	java:S131l""Add a default case to this switch.(êş…
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŒÀßãúÿÿÿÿ
+U
+java:S2130ƒ"9Use "Integer.parseInt" for this string-to-int conversion.(Èƒ›Üşÿÿÿÿ
+4
+java:S2119Ÿ"Save and re-use this "Random".(¼İÅf
+i
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(…º‹ó
+8	java:S131»""Add a default case to this switch.(¤Òš
+Y
+java:S3398^">Move this method into the anonymous class declared at line 40.(ó® üÿÿÿÿ

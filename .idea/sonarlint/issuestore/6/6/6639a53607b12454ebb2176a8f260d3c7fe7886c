@@ -1,0 +1,35 @@
+
+
+java:S1319="pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(·‚¨Í8¢ù‰İ0
+’
+java:S1319A"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ıøãåşÿÿÿÿ8¢ù‰İ0
+
+java:S1319E"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öÕ‡Ñ8¢ù‰İ0
+Œ
+java:S1319I"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶“Ğq8¢ù‰İ0
+
+java:S1319M"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¬Úú8‚¢ù‰İ0
+
+java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹ğ–8‚¢ù‰İ0
+
+java:S1319U"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ú½À€8‚¢ù‰İ0
+m
+java:S3008"RRename this field "Answers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡²şÿÿÿÿ
+p
+java:S3008"SRename this field "Question" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Š±î8¢ù‰İ0
+n
+java:S3008"QRename this field "Answer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÙÊï8¢ù‰İ0
+S
+java:S2696)"6Make the enclosing method "static" or remove this set.(™Ç¹Â8Ş¹ø‰İ0
+X
+java:S2696*"6Make the enclosing method "static" or remove this set.(õ†˜±ÿÿÿÿÿ8‹ù‰İ0
+X
+java:S2696+"6Make the enclosing method "static" or remove this set.(ĞãÎ…üÿÿÿÿ8ß¹ø‰İ0
+S
+java:S2696,"6Make the enclosing method "static" or remove this set.(ÕîË·8ß¹ø‰İ0
+X
+java:S2696-"6Make the enclosing method "static" or remove this set.(¶ëÃšùÿÿÿÿ8à¹ø‰İ0
+S
+java:S2696."6Make the enclosing method "static" or remove this set.(’İÂù8à¹ø‰İ0
+X
+java:S2696/"6Make the enclosing method "static" or remove this set.(”Íõúıÿÿÿÿ8¢¢ù‰İ0

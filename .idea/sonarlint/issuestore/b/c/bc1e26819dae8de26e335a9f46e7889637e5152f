@@ -1,0 +1,43 @@
+
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úıæ?
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¿°ûÿÿÿÿ8Óî€İ0
+\
+java:S1874":Remove this use of "PreferenceFragment"; it is deprecated.(íÑÀ¢úÿÿÿÿ8ëî€İ0
+M
+java:S1874"2Remove this use of "Preference"; it is deprecated.(íÑÀ¢úÿÿÿÿ
+d
+java:S1874"BRemove this use of "OnPreferenceChangeListener"; it is deprecated.(íÑÀ¢úÿÿÿÿ8ëî€İ0
+f
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¥Ë©8íî€İ0
+R
+java:S1874"0Remove this use of "onCreate"; it is deprecated.(î±¨Ôøÿÿÿÿ8îî€İ0
+N
+java:S1874"2Remove this use of "Preference"; it is deprecated.(Úıæ?8îî€İ0
+M
+java:S1874 "2Remove this use of "Preference"; it is deprecated.(ş¿°ûÿÿÿÿ
+g
+java:S1874!"ERemove this use of "setOnPreferenceChangeListener"; it is deprecated.(ÄÓ¢üÿÿÿÿ8¦‚ì€İ0
+g
+java:S1874""ERemove this use of "setOnPreferenceChangeListener"; it is deprecated.(˜ÙÑëøÿÿÿÿ8ğî€İ0
+T
+java:S1874'"2Remove this use of "Preference"; it is deprecated.(¶àòÁúÿÿÿÿ8óî€İ0
+[
+java:S1874("9Remove this use of "PreferenceManager"; it is deprecated.(éÏ“•şÿÿÿÿ8óî€İ0
+e
+java:S1874("CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(éÏ“•şÿÿÿÿ8óî€İ0
+T
+java:S1874("2Remove this use of "getContext"; it is deprecated.(éÏ“•şÿÿÿÿ8†˜ğ€İ0
+P
+java:S1874)".Remove this use of "getKey"; it is deprecated.(äÜ¼øÿÿÿÿ8‡˜ğ€İ0
+O
+java:S1874."2Remove this use of "Preference"; it is deprecated.(œğÄ¬8ôî€İ0
+X
+java:S18740"6Remove this use of "ListPreference"; it is deprecated.(ş±ĞÇùÿÿÿÿ8Üïñ€İ0
+X
+java:S18740"6Remove this use of "ListPreference"; it is deprecated.(ş±ĞÇùÿÿÿÿ8Üïñ€İ0
+Z
+java:S18741"8Remove this use of "findIndexOfValue"; it is deprecated.(¥•‰¢ÿÿÿÿÿ8İïñ€İ0
+T
+java:S18743"2Remove this use of "getEntries"; it is deprecated.(Š”é¸ûÿÿÿÿ8İïñ€İ0
+O
+java:S18744"2Remove this use of "setSummary"; it is deprecated.(¯æ”8¬¾ñ€İ0

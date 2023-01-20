@@ -1,0 +1,32 @@
+
+n
+java:S1104"SMake context a static final constant or non-public and provide accessors if needed.(“§·Éûÿÿÿÿ
+n
+java:S1104"SMake results a static final constant or non-public and provide accessors if needed.(‹äŸùÿÿÿÿ
+j
+java:S1104"TMake question a static final constant or non-public and provide accessors if needed.(¦ºÒœ
+k
+java:S1104"PMake optA a static final constant or non-public and provide accessors if needed.(«ˆÿÁûÿÿÿÿ
+r
+java:S1104"PMake optB a static final constant or non-public and provide accessors if needed.(Ö¶öŒøÿÿÿÿ8øßÕÜ0
+r
+java:S1104"PMake optC a static final constant or non-public and provide accessors if needed.(”À¹ùüÿÿÿÿ8Í‘ÕÜ0
+l
+java:S1104"PMake optD a static final constant or non-public and provide accessors if needed.(²Á¾68Î‘ÕÜ0
+t
+java:S1104"RMake Answer a static final constant or non-public and provide accessors if needed.(óÊñÿÿÿÿÿ8Í’ÕÜ0
+-
+java:S1700"Rename field "question"(¦ºÒœ
+r	java:S116"QRename this field "Answer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÊñÿÿÿÿÿ8Ï’ÕÜ0
+;
+java:S1948"%Make "question" private or transient.(¦ºÒœ
+<
+java:S1948"!Make "optA" private or transient.(«ˆÿÁûÿÿÿÿ
+C
+java:S1948"!Make "optB" private or transient.(Ö¶öŒøÿÿÿÿ8üßÕÜ0
+C
+java:S1948"!Make "optC" private or transient.(”À¹ùüÿÿÿÿ8Ò‘ÕÜ0
+=
+java:S1948"!Make "optD" private or transient.(²Á¾68Ò‘ÕÜ0
+E
+java:S1948"#Make "Answer" private or transient.(óÊñÿÿÿÿÿ8Ò’ÕÜ0
