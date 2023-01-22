@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.util.Log;
@@ -36,6 +37,7 @@ public class HomeActivity extends AppCompatActivity {
     Question question;
     String difficulty;
     String category;
+    Button chrome;
 
     View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
@@ -53,6 +55,10 @@ public class HomeActivity extends AppCompatActivity {
                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(intent);
             }
+            else if(view.getId() == R.id.chrome) {
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(Api.BASE_URL));
+                startActivity(intent);
+            }
         }
     };
 
@@ -63,9 +69,11 @@ public class HomeActivity extends AppCompatActivity {
         setFilterDefaultValues();
         start = findViewById(R.id.home_start);
         filter = findViewById(R.id.home_filter);
+        chrome = findViewById(R.id.chrome);
         progresBar = findViewById(R.id.progressBar2);
         start.setOnClickListener(onClickListener);
         filter.setOnClickListener(onClickListener);
+        chrome.setOnClickListener(onClickListener);
 
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
         category = sharedPreferences.getString(getString(R.string.category_key), getString(R.string.medium_value));
