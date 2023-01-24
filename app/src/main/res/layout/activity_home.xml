@@ -45,4 +45,14 @@
         android:textColor="@color/colorPrimaryDark"
         android:visibility="visible" />
 
+    <Button
+        android:id="@+id/chrome"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="@string/chrome"
+        android:textColor="@color/colorPrimaryDark"
+        android:visibility="visible" />
+
   </LinearLayout>

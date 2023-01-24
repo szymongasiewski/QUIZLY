@@ -13,10 +13,6 @@ k
 ;app/src/main/java/com/example/quizly/api/QuizQuestions.java,4\c\4cfafc4e334096c3429812da467737324fd9376a
 s
 Capp/src/main/java/com/example/quizly/api/CategoryQuestionCount.java,6\c\6cfac040707eeadd24338e2033bf9c70772fb358
-a
-1app/src/main/java/com/example/quizly/api/Api.java,b\2\b2a95c55a507a8203fb16a26973555d1ea014b1a
-q
-Aapp/src/main/java/com/example/quizly/activities/HomeActivity.java,6\6\6693f0d0e71be218025d5d310e3f9540ded09817
 i
 9app/src/main/java/com/example/quizly/models/Question.java,c\3\c3b70fa9d3a98a01b57bafdde4e739d9988d2263
 u
@@ -27,6 +23,8 @@ q
 Aapp/src/main/java/com/example/quizly/activities/QuizActivity.java,8\0\80e61f9dc059af22d34f648705ac7455eec0e618
 p
 @app/src/main/java/com/example/quizly/solution/AnswerAdapter.java,9\f\9f123c7c990a8799fa795b733b0d701ac0e9d2f9
+a
+1app/src/main/java/com/example/quizly/api/Api.java,b\2\b2a95c55a507a8203fb16a26973555d1ea014b1a
 d
 4app/src/main/java/com/example/quizly/api/Result.java,7\9\799fd98911fda3de991101d5efa4134abb4408da
 r
@@ -37,3 +35,5 @@ t
 Dapp/src/main/java/com/example/quizly/solution/QuestionsFragment.java,6\3\638d3f78195061ce5b5f33327d3910d041f58d33
 }
 Mapp/src/main/java/com/example/quizly/solution/SimpleFragmentPagerAdapter.java,e\f\ef9774271b7e4706897cef921831dc8ff986183d
+q
+Aapp/src/main/java/com/example/quizly/activities/HomeActivity.java,6\6\6693f0d0e71be218025d5d310e3f9540ded09817

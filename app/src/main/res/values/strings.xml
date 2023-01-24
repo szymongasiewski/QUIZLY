@@ -82,4 +82,5 @@
     <string name="category_key" translatable="false">category</string>
 
     <string name="filter">Settings</string>
+    <string name="chrome">OPENTDB</string>
 </resources>
